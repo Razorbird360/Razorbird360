@@ -19,6 +19,7 @@ As an aspiring FullStack developer in his 2nd Year of study at Ngee Ann Polytech
 </picture>
 
 <br/>
+<br/>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Razorbird360&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
