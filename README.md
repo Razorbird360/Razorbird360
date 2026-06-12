@@ -1,5 +1,5 @@
 # 💫 About Me:
-As an aspiring FullStack developer in his 2nd Year of study at Ngee Ann Polytechnic, I have always been interested in fullstack and SWE.<br>I excel in technology due to my strong passion for it, as I continuously strive to expand my skillset.
+As an aspiring FullStack developer in his 3rd Year of study at Ngee Ann Polytechnic, I have always been interested in FullStack and AI.<br>I excel in technology due to my strong passion for it, as I continuously strive to expand my skillset.
 
 
 ## 🌐 Socials:
